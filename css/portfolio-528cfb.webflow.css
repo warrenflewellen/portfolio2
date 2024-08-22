@@ -22,7 +22,7 @@ a {
   mix-blend-mode: normal;
   background-color: #f5f6f7;
   font-family: Modern Era, sans-serif;
-  transition: opacity .6s;
+  transition: opacity 0.6s;
 }
 
 .nav {
@@ -37,7 +37,8 @@ a {
   margin-top: 20px;
 }
 
-.div-block, .div-block-2 {
+.div-block,
+.div-block-2 {
   flex: 1;
   display: block;
 }
@@ -95,7 +96,8 @@ a {
   display: flex;
 }
 
-.image, .image-2 {
+.image,
+.image-2 {
   border-radius: 10px;
 }
 
@@ -154,7 +156,8 @@ a {
 }
 
 .text-span-2 {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: 100;
 }
 
@@ -163,19 +166,25 @@ a {
   font-weight: 100;
 }
 
-.text-span-4, .text-span-5 {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+.text-span-4,
+.text-span-5 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: 100;
 }
 
 .italic-text {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-style: normal;
   font-weight: 100;
 }
 
-.text-span-6, .text-span-7, .text-span-8 {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+.text-span-6,
+.text-span-7,
+.text-span-8 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: 100;
 }
 
@@ -280,7 +289,8 @@ a {
   padding-bottom: 20px;
 }
 
-.grid2image, .image-9 {
+.grid2image,
+.image-9 {
   border-radius: 10px;
 }
 
@@ -322,12 +332,16 @@ a {
   padding-bottom: 0;
 }
 
-.text-span-10, .text-span-11, .text-span-12, .text-span-13 {
+.text-span-10,
+.text-span-11,
+.text-span-12,
+.text-span-13 {
   color: #999;
 }
 
 .text-span-14 {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: 100;
 }
 
@@ -339,8 +353,11 @@ a {
   color: #999;
 }
 
-.text-span-15, .text-span-16, .text-span-17 {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+.text-span-15,
+.text-span-16,
+.text-span-17 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: 100;
 }
 
@@ -397,7 +414,8 @@ a {
   grid-template-rows: auto;
 }
 
-.column-3, .column-4 {
+.column-3,
+.column-4 {
   padding-left: 0;
   padding-right: 0;
 }
@@ -418,11 +436,13 @@ a {
 }
 
 .text-span-18 {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: 100;
 }
 
-.navarticle2, .navarticle1 {
+.navarticle2,
+.navarticle1 {
   width: 33.3%;
 }
 
@@ -431,7 +451,9 @@ a {
   width: 33.3%;
 }
 
-.text-block-4, .text-block-5, .modernbody16 {
+.text-block-4,
+.text-block-5,
+.modernbody16 {
   font-size: 16px;
   line-height: 22px;
 }
@@ -444,7 +466,8 @@ a {
   display: none;
 }
 
-.home-image-link-block:hover, .modernbody_14_grey {
+.home-image-link-block:hover,
+.modernbody_14_grey {
   color: #999;
 }
 
@@ -489,7 +512,10 @@ a {
   margin-top: 120px;
 }
 
-.image-10, .image-11, .image-12, .image-13 {
+.image-10,
+.image-11,
+.image-12,
+.image-13 {
   border-radius: 6px;
 }
 
@@ -520,7 +546,8 @@ a {
   padding-right: 0;
 }
 
-.image-14, .image-15 {
+.image-14,
+.image-15 {
   max-width: 60%;
 }
 
@@ -529,7 +556,7 @@ a {
 }
 
 .featuredlinks:hover {
-  opacity: .7;
+  opacity: 0.7;
 }
 
 .modernbody_16_grey {
@@ -543,7 +570,12 @@ a {
   margin-top: 60px;
 }
 
-.column-12, .column-13, .column-14, .column-15, .column-16, .column-17 {
+.column-12,
+.column-13,
+.column-14,
+.column-15,
+.column-16,
+.column-17 {
   padding-left: 0;
   padding-right: 0;
 }
@@ -552,8 +584,11 @@ a {
   border-radius: 6px;
 }
 
-.text-span-19, .text-span-20, .text-span-21 {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+.text-span-19,
+.text-span-20,
+.text-span-21 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: 100;
 }
 
@@ -575,7 +610,9 @@ a {
   margin-top: 60px;
 }
 
-.text-span-22, .text-span-23, .hyperlink:hover {
+.text-span-22,
+.text-span-23,
+.hyperlink:hover {
   color: #999;
 }
 
@@ -590,8 +627,10 @@ a {
   margin-top: 120px;
 }
 
-.text-span-24, .text-span-25 {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+.text-span-24,
+.text-span-25 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: 100;
 }
 
@@ -708,7 +747,8 @@ a {
     grid-row-gap: 10px;
   }
 
-  .image-14, .image-15 {
+  .image-14,
+  .image-15 {
     max-width: 80%;
   }
 
@@ -872,7 +912,8 @@ a {
     margin-top: 60px;
   }
 
-  .image50_desktop, .text50_desktop {
+  .image50_desktop,
+  .text50_desktop {
     width: 100%;
     margin-top: 80px;
   }
@@ -924,7 +965,8 @@ a {
     padding-bottom: 0;
   }
 
-  .containerfooter, .containerfooterarticle {
+  .containerfooter,
+  .containerfooterarticle {
     margin-top: 140px;
   }
 
@@ -970,7 +1012,9 @@ a {
     display: block;
   }
 
-  .image-10, .image-11, .image-12 {
+  .image-10,
+  .image-11,
+  .image-12 {
     padding-bottom: 10px;
   }
 
@@ -1029,7 +1073,58 @@ a {
   }
 }
 
-#w-node-_5149984e-1188-8d59-efd5-b14974bd7cbb-43d6f8d3, #w-node-bab4efa0-96d4-512f-d666-df84d9d3332c-43d6f8d3, #w-node-bd938cd3-d25e-8b85-2d0a-5682cf158c77-43d6f8d3, #w-node-a42c6149-44e3-596c-a71e-43b0099b9bea-43d6f8d3, #w-node-_3246e1d8-37d6-f132-072c-1b435e7ae576-43d6f8d3, #w-node-_0cf2cee5-8461-d584-2fba-25542fa6147d-43d6f8d3, #w-node-_58a1c208-22c0-4a54-3c85-8fc5239c18de-43d6f8d3, #w-node-_226efe3c-761f-bb57-37a0-353ea17cad17-43d6f8d3, #w-node-_8e729835-0f9c-eb98-fdcf-197c25eb5b22-43d6f8d3, #w-node-a79a92d5-0cbd-dee8-3e3f-fc6ca61586ac-43d6f8d3, #w-node-cabacb96-4b9d-dd1a-37a1-ec08a560a76a-43d6f8d3, #w-node-d05db84d-1e3c-c6b4-15d7-9a4caf31fdc2-43d6f8d3, #w-node-_81dba197-9432-20e8-fbea-447878e11973-78e11971, #w-node-_81dba197-9432-20e8-fbea-447878e11974-78e11971, #w-node-_81dba197-9432-20e8-fbea-447878e11980-78e11971, #w-node-_1667a40f-9e0c-4ffd-4a03-d6e05c2c6829-5c2c6829, #w-node-e7c37811-ddd8-fc7e-ff79-929e3e73d8ad-43d6f8d5, #w-node-b8b39221-c193-016e-438d-b36bdc60db37-43d6f8d5, #w-node-b8b39221-c193-016e-438d-b36bdc60db3f-43d6f8d5, #w-node-a3246db4-9e77-6361-feaa-873874a73d07-74a73d06, #w-node-a3246db4-9e77-6361-feaa-873874a73d10-74a73d06, #w-node-_77c5ee1b-ca2b-70f8-068d-2bdb5ff88047-5ff88046, #w-node-_77c5ee1b-ca2b-70f8-068d-2bdb5ff88048-5ff88046, #w-node-_6d07effd-1b79-a8eb-0252-c34ca96213e6-a96213e5, #w-node-_6d07effd-1b79-a8eb-0252-c34ca96213e7-a96213e5, #w-node-_6d07effd-1b79-a8eb-0252-c34ca96213e8-a96213e5, #w-node-_6d07effd-1b79-a8eb-0252-c34ca96213e9-a96213e5, #w-node-cac30935-69b2-2ec7-8723-7d0aeabd8826-eabd8825, #w-node-cac30935-69b2-2ec7-8723-7d0aeabd8827-eabd8825, #w-node-e7c37811-ddd8-fc7e-ff79-929e3e73d8ad-43d6f8d6, #w-node-_910eca15-c45a-865a-a348-c265500db865-43d6f8d6, #w-node-b14f3b03-ee51-ddb6-6f21-58735229427f-43d6f8d6, #w-node-b14f3b03-ee51-ddb6-6f21-587352294289-43d6f8d6, #w-node-d03a3cff-d0cf-ce60-ed35-4766b3abb739-43d6f8d7, #w-node-_0e3b24b8-7b21-98da-feb3-947a4d78ecb3-43d6f8d7, #w-node-_2998078c-f16c-6b95-bf92-96d509da7fbc-43d6f8d7, #w-node-c451d891-0c82-e095-cc33-8c6a803a97bb-43d6f8d7, #w-node-_155dcce2-92dc-0843-7e6e-f39a522cf30a-43d6f8d7, #w-node-_155dcce2-92dc-0843-7e6e-f39a522cf30d-43d6f8d7, #w-node-_881c2576-9cc2-5b2c-c659-af6fb2c8dba5-43d6f8d7, #w-node-_881c2576-9cc2-5b2c-c659-af6fb2c8dbaf-43d6f8d7, #w-node-_0410f089-e2d9-93f2-66df-0220ca1c6106-43d6f8d8, #w-node-_9b59842f-5e38-fbb7-2480-f03c5f88cae6-43d6f8d8, #w-node-_3c467cd2-03fd-363e-b75e-4ad5c9c4d844-43d6f8d8, #w-node-e7c37811-ddd8-fc7e-ff79-929e3e73d8ad-43d6f8d8, #w-node-b14f3b03-ee51-ddb6-6f21-58735229427f-43d6f8d9, #w-node-b14f3b03-ee51-ddb6-6f21-587352294289-43d6f8d9, #w-node-_910eca15-c45a-865a-a348-c265500db865-43d6f8da, #w-node-d0766203-c9ba-0bce-3116-890309c7d2da-43d6f8da, #w-node-d0766203-c9ba-0bce-3116-890309c7d2e4-43d6f8da, #w-node-f6993407-74bf-48d3-cf99-9f7b30bd0b68-43d6f8db, #w-node-f6993407-74bf-48d3-cf99-9f7b30bd0b72-43d6f8db {
+#w-node-_5149984e-1188-8d59-efd5-b14974bd7cbb-43d6f8d3,
+#w-node-bab4efa0-96d4-512f-d666-df84d9d3332c-43d6f8d3,
+#w-node-bd938cd3-d25e-8b85-2d0a-5682cf158c77-43d6f8d3,
+#w-node-a42c6149-44e3-596c-a71e-43b0099b9bea-43d6f8d3,
+#w-node-_3246e1d8-37d6-f132-072c-1b435e7ae576-43d6f8d3,
+#w-node-_0cf2cee5-8461-d584-2fba-25542fa6147d-43d6f8d3,
+#w-node-_58a1c208-22c0-4a54-3c85-8fc5239c18de-43d6f8d3,
+#w-node-_226efe3c-761f-bb57-37a0-353ea17cad17-43d6f8d3,
+#w-node-_8e729835-0f9c-eb98-fdcf-197c25eb5b22-43d6f8d3,
+#w-node-a79a92d5-0cbd-dee8-3e3f-fc6ca61586ac-43d6f8d3,
+#w-node-cabacb96-4b9d-dd1a-37a1-ec08a560a76a-43d6f8d3,
+#w-node-d05db84d-1e3c-c6b4-15d7-9a4caf31fdc2-43d6f8d3,
+#w-node-_81dba197-9432-20e8-fbea-447878e11973-78e11971,
+#w-node-_81dba197-9432-20e8-fbea-447878e11974-78e11971,
+#w-node-_81dba197-9432-20e8-fbea-447878e11980-78e11971,
+#w-node-_1667a40f-9e0c-4ffd-4a03-d6e05c2c6829-5c2c6829,
+#w-node-e7c37811-ddd8-fc7e-ff79-929e3e73d8ad-43d6f8d5,
+#w-node-b8b39221-c193-016e-438d-b36bdc60db37-43d6f8d5,
+#w-node-b8b39221-c193-016e-438d-b36bdc60db3f-43d6f8d5,
+#w-node-a3246db4-9e77-6361-feaa-873874a73d07-74a73d06,
+#w-node-a3246db4-9e77-6361-feaa-873874a73d10-74a73d06,
+#w-node-_77c5ee1b-ca2b-70f8-068d-2bdb5ff88047-5ff88046,
+#w-node-_77c5ee1b-ca2b-70f8-068d-2bdb5ff88048-5ff88046,
+#w-node-_6d07effd-1b79-a8eb-0252-c34ca96213e6-a96213e5,
+#w-node-_6d07effd-1b79-a8eb-0252-c34ca96213e7-a96213e5,
+#w-node-_6d07effd-1b79-a8eb-0252-c34ca96213e8-a96213e5,
+#w-node-_6d07effd-1b79-a8eb-0252-c34ca96213e9-a96213e5,
+#w-node-cac30935-69b2-2ec7-8723-7d0aeabd8826-eabd8825,
+#w-node-cac30935-69b2-2ec7-8723-7d0aeabd8827-eabd8825,
+#w-node-e7c37811-ddd8-fc7e-ff79-929e3e73d8ad-43d6f8d6,
+#w-node-_910eca15-c45a-865a-a348-c265500db865-43d6f8d6,
+#w-node-b14f3b03-ee51-ddb6-6f21-58735229427f-43d6f8d6,
+#w-node-b14f3b03-ee51-ddb6-6f21-587352294289-43d6f8d6,
+#w-node-d03a3cff-d0cf-ce60-ed35-4766b3abb739-43d6f8d7,
+#w-node-_0e3b24b8-7b21-98da-feb3-947a4d78ecb3-43d6f8d7,
+#w-node-_2998078c-f16c-6b95-bf92-96d509da7fbc-43d6f8d7,
+#w-node-c451d891-0c82-e095-cc33-8c6a803a97bb-43d6f8d7,
+#w-node-_155dcce2-92dc-0843-7e6e-f39a522cf30a-43d6f8d7,
+#w-node-_155dcce2-92dc-0843-7e6e-f39a522cf30d-43d6f8d7,
+#w-node-_881c2576-9cc2-5b2c-c659-af6fb2c8dba5-43d6f8d7,
+#w-node-_881c2576-9cc2-5b2c-c659-af6fb2c8dbaf-43d6f8d7,
+#w-node-_0410f089-e2d9-93f2-66df-0220ca1c6106-43d6f8d8,
+#w-node-_9b59842f-5e38-fbb7-2480-f03c5f88cae6-43d6f8d8,
+#w-node-_3c467cd2-03fd-363e-b75e-4ad5c9c4d844-43d6f8d8,
+#w-node-e7c37811-ddd8-fc7e-ff79-929e3e73d8ad-43d6f8d8,
+#w-node-b14f3b03-ee51-ddb6-6f21-58735229427f-43d6f8d9,
+#w-node-b14f3b03-ee51-ddb6-6f21-587352294289-43d6f8d9,
+#w-node-_910eca15-c45a-865a-a348-c265500db865-43d6f8da,
+#w-node-d0766203-c9ba-0bce-3116-890309c7d2da-43d6f8da,
+#w-node-d0766203-c9ba-0bce-3116-890309c7d2e4-43d6f8da,
+#w-node-f6993407-74bf-48d3-cf99-9f7b30bd0b68-43d6f8db,
+#w-node-f6993407-74bf-48d3-cf99-9f7b30bd0b72-43d6f8db {
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
 
@@ -1044,32 +1139,77 @@ a {
   }
 }
 
+@font-face {
+  font-family: "Italian Garamond";
+  src: url("../fonts/ItalianGaramondBT-Roman.woff2") format("woff2"),
+    url("../fonts/ItalianGaramondBT-Roman.eot") format("embedded-opentype"),
+    url("../fonts/ItalianGaramondBT-Roman.woff") format("woff"),
+    url("../fonts/ItalianGaramondBT-Roman.ttf") format("truetype"),
+    url("../fonts/Italian-Garamond-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Italian Garamond";
+  src: url("../fonts/ItalianGaramondBT-Italic.woff2") format("woff2"),
+    url("../fonts/ItalianGaramondBT-Italic.eot") format("embedded-opentype"),
+    url("../fonts/ItalianGaramondBT-Italic.woff") format("woff"),
+    url("../fonts/ItalianGaramondBT-Italic.ttf") format("truetype"),
+    url("../fonts/Italian-Garamond-Italic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Modern Era";
+  src: url("../fonts/ModernEra-Regular.woff2") format("woff2"),
+    url("../fonts/ModernEra-Regular.eot") format("embedded-opentype"),
+    url("../fonts/ModernEra-Regular.woff") format("woff"),
+    url("../fonts/ModernEra-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Modern Era";
+  src: url("../fonts/ModernEra-RegularItalic.woff2") format("woff2"),
+    url("../fonts/ModernEra-RegularItalic.eot") format("embedded-opentype"),
+    url("../fonts/ModernEra-Italic.woff") format("woff"),
+    url("../fonts/ModernEra-RegularItalic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
 
-@font-face {
-  font-family: 'Italian Garamond';
-  src: url('../fonts/ItalianGaramondBT-Roman.woff2') format('woff2'), url('../fonts/ItalianGaramondBT-Roman.eot') format('embedded-opentype'), url('../fonts/ItalianGaramondBT-Roman.woff') format('woff'), url('../fonts/ItalianGaramondBT-Roman.ttf') format('truetype'), url('../fonts/Italian-Garamond-Regular.otf') format('opentype');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
+/* SCROLL TO TOP BUTTON */
+
+.scroll-top {
+  background: black;
+  border: 0;
+  border-radius: 50%;
+  bottom: 0;
+  cursor: pointer;
+  height: 50px;
+  margin: 15px;
+  opacity: 0.75;
+  position: fixed;
+  right: -70px;
+  transition: right 0.2s ease-in-out;
+  width: 50px;
+  z-index: 99;
 }
-@font-face {
-  font-family: 'Italian Garamond';
-  src: url('../fonts/ItalianGaramondBT-Italic.woff2') format('woff2'), url('../fonts/ItalianGaramondBT-Italic.eot') format('embedded-opentype'), url('../fonts/ItalianGaramondBT-Italic.woff') format('woff'), url('../fonts/ItalianGaramondBT-Italic.ttf') format('truetype'), url('../fonts/Italian-Garamond-Italic.otf') format('opentype');
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
+.scroll-top.visible {
+  right: 0;
 }
-@font-face {
-  font-family: 'Modern Era';
-  src: url('../fonts/ModernEra-Regular.woff2') format('woff2'), url('../fonts/ModernEra-Regular.eot') format('embedded-opentype'), url('../fonts/ModernEra-Regular.woff') format('woff'), url('../fonts/ModernEra-Regular.ttf') format('truetype');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
+
+.arrow {
+  border: solid #fff;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  margin-top: 5px;
+  padding: 4px;
 }
-@font-face {
-  font-family: 'Modern Era';
-  src: url('../fonts/ModernEra-RegularItalic.woff2') format('woff2'), url('../fonts/ModernEra-RegularItalic.eot') format('embedded-opentype'), url('../fonts/ModernEra-Italic.woff') format('woff'), url('../fonts/ModernEra-RegularItalic.ttf') format('truetype');
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
+.arrow.up {
+  transform: rotate(-135deg);
 }
