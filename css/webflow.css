@@ -1812,30 +1812,6 @@ textarea.w-select {
 
 /* SCROLL TO TOP BUTTON */
 
-.social-text,
-.projects-header,
-p.card-title b {
-  font-size: 2em;
-  text-transform: capitalize;
-}
-.welcome-header span {
-  font-size: 40px;
-  text-transform: capitalize;
-  font-family: "Neue Montreal Regular";
-}
-.welcome-header {
-  margin-top: 30px;
-  font-weight: 700;
-}
-.nav-link {
-  font-size: 50px;
-  text-transform: capitalize;
-}
-
-.fa-brands {
-  padding-top: 20px;
-}
-
 .scroll-top {
   background: black;
   border: 0;
